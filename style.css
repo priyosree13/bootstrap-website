@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+}
+.logo
+{ 
+    height: 80px;
+    padding: 2px 5px;
+}
+.icon-bar
+{
+    background: darkorange;
+}
+li a
+{
+    color: black;
+}
+.first-text
+{
+    font-size: 50px;
+    margin: 20px 0;
+    color:darkorange;
+}
+.big-text
+{
+    font-size: 40px;
+    margin: 20px 0;
+    color:darkorange;
+}
+.small-text
+{
+    font-size: 30px;
+    margin: 20px 0;
+    color:darkorange;
+}
+.abt
+{
+    font-size: 60px;
+    margin: 20px 0;
+    color:rgb(67, 12, 218);
+}
+.about-content
+{
+    font-size: 60px;
+    margin: 20px 0;
+    color:rgb(7, 6, 6);
+}
+#about
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(18, 177, 84);
+}
+#about .btn{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-content
+{
+    padding-top: 20px;
+}
+.Skills-bar p{
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+.progress-bar
+{
+    border-radius: 16px;
+
+}
+.progress{
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+.gly
+{
+    font-size: 70px;
+    margin: 20px 0;
+    color:rgb(180, 53, 15);
+}
